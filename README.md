@@ -2,7 +2,7 @@
 
 just paste this into your anime repo 
 ```
-https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json
+https://raw.githubusercontent.com/Xelivu/extensions/main/index.min.json
 ```
 
 ## Support Server
